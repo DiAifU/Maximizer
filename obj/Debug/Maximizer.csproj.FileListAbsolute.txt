@@ -1,0 +1,12 @@
+D:\Nicolas\Documents\Cours\4ETI\Projet Transversal\Maximizer\Maximizer\bin\Debug\Maximizer.exe.config
+D:\Nicolas\Documents\Cours\4ETI\Projet Transversal\Maximizer\Maximizer\bin\Debug\Maximizer.exe
+D:\Nicolas\Documents\Cours\4ETI\Projet Transversal\Maximizer\Maximizer\bin\Debug\Maximizer.pdb
+D:\Nicolas\Documents\Cours\4ETI\Projet Transversal\Maximizer\Maximizer\obj\Debug\Maximizer.csprojResolveAssemblyReference.cache
+D:\Nicolas\Documents\Cours\4ETI\Projet Transversal\Maximizer\Maximizer\obj\Debug\Maximizer.Properties.Resources.resources
+D:\Nicolas\Documents\Cours\4ETI\Projet Transversal\Maximizer\Maximizer\obj\Debug\Maximizer.csproj.GenerateResource.Cache
+D:\Nicolas\Documents\Cours\4ETI\Projet Transversal\Maximizer\Maximizer\obj\Debug\Maximizer.exe
+D:\Nicolas\Documents\Cours\4ETI\Projet Transversal\Maximizer\Maximizer\obj\Debug\Maximizer.pdb
+D:\Nicolas\Documents\Cours\4ETI\Projet Transversal\Maximizer\Maximizer\bin\Debug\VirtualDesktop.dll
+D:\Nicolas\Documents\Cours\4ETI\Projet Transversal\Maximizer\Maximizer\bin\Debug\VirtualDesktop.pdb
+D:\Nicolas\Documents\Cours\4ETI\Projet Transversal\Maximizer\Maximizer\bin\Debug\VirtualDesktop.xml
+D:\Nicolas\Documents\Cours\4ETI\Projet Transversal\Maximizer\Maximizer\obj\Debug\Maximizer.MainForm.resources
